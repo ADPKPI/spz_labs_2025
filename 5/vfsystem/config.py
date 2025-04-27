@@ -1,0 +1,5 @@
+BUF_SIZE = 8
+MAX_NAME_LEN = 64
+MAX_FD = 3
+DOT = "."
+DOT_DOT = ".."
